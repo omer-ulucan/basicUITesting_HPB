@@ -1,0 +1,37 @@
+
+m
+java:S1192"KDefine a constant instead of duplicating this literal "visibility" 5 times.(Ëá‹ûÿÿÿÿ8Üï¯…1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±¢™ùÿÿÿÿ8´½Ê¯…1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø’÷Ö8Å½Ê¯…1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Š¨È„8Ç½Ê¯…1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ö½ã·8Ç½Ê¯…1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æ–úİ8È½Ê¯…1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÊäğÕ8É½Ê¯…1
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(ÍğŞ‘8É½Ê¯…1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ëÇŸ¿8É½Ê¯…1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÁ›ïúÿÿÿÿ8Ê½Ê¯…1
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(â’¦8Ê½Ê¯…1
+S
+java:S2696$"6Make the enclosing method "static" or remove this set.(¢ÑíŞ8Ë½Ê¯…1
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(îßë¤8Ë½Ê¯…1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(”¾æŸúÿÿÿÿ8Ë½Ê¯…1
+U	java:S106."9Replace this use of System.out or System.err by a logger.(µå¡È8Í½Ê¯…1
+S
+java:S2696/"6Make the enclosing method "static" or remove this set.(¦á¿Ù8Í½Ê¯…1
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(ÒË8Î½Ê¯…1
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(¦Â8Î½Ê¯…1
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(äŒĞÅ8Ğ½Ê¯…1
+X
+java:S2696:"6Make the enclosing method "static" or remove this set.(Ú…ùÿÿÿÿ8Ğ½Ê¯…1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(æÏº£üÿÿÿÿ8Ñ½Ê¯…1
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(©™Çûüÿÿÿÿ8Ò½Ê¯…1
+T	java:S106F"9Replace this use of System.out or System.err by a logger.(èÒx8Ó½Ê¯…1
+X
+java:S2696G"6Make the enclosing method "static" or remove this set.(Şûï øÿÿÿÿ8»ûÏ¯…1
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(Ğ±òˆüÿÿÿÿ8Ô½Ê¯…1
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(ÍÙÕ˜8Ç—Ø¯…1
+X
+java:S2696S"6Make the enclosing method "static" or remove this set.(ïŸğåşÿÿÿÿ8ùÖ¯…1
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(Ôİõ×8ü­Ù¯…1
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(ÕòÊıÿÿÿÿ8…„€°…1

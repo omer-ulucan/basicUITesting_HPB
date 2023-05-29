@@ -1,0 +1,19 @@
+
+0
+java:S1700	"Rename field "driver"(âı“µøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±¢™ùÿÿÿÿ
+r
+java:S1450
+"WRemove the "myObject" field and declare it as a local variable in the relevant methods.(â¬•çùÿÿÿÿ
+`
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(âı“µøÿÿÿÿ
+`
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(â¬•çùÿÿÿÿ
+>
+java:S3010"#Remove this assignment of "driver".(ğÌåïùÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ËŒ«ÿÿÿÿÿ
+G
+java:S1068
+",Remove this unused "myObject" private field.(â¬•çùÿÿÿÿ

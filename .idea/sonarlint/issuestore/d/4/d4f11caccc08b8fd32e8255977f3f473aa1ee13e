@@ -1,0 +1,11 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”æ·Áúÿÿÿÿ8©Ñ—Ö„1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(úà­Ûÿÿÿÿÿ8«Ò—Ö„1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú‡›Ïùÿÿÿÿ8¬Ò—Ö„1
+[
+java:S1854"9Remove this useless assignment to local variable "email".(•§ÝÚÿÿÿÿÿ8®Ò—Ö„1
+L
+java:S1481"*Remove this unused "email" local variable.(•§ÝÚÿÿÿÿÿ8ÊÒ—Ö„1
+]
+java:S1128	";Remove this unused import 'Bonigarcia.HazirMethod.Methods'.(¨¼À™ÿÿÿÿÿ8ËÒ—Ö„1

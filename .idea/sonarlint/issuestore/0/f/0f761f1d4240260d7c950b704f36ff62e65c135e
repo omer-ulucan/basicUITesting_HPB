@@ -1,0 +1,9 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(“›¡øÿÿÿÿ8úØ‘Ö„1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”æ·Áúÿÿÿÿ8úØ‘Ö„1
+]	java:S125
+"<This block of commented-out lines of code should be removed.(è±óÓúÿÿÿÿ8ÿØ‘Ö„1
+]
+java:S1128";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ8‘õ…ÿ„1
+
+java:S1128"kRemove this unused import 'Bonigarcia.Bonigarcia_ChromeBaslatma_Kullanimi.launchChrome_with_chromeOptions'.(Ÿª¨£ÿÿÿÿÿ8‘õ…ÿ„1
